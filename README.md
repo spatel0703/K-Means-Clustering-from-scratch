@@ -1,4 +1,4 @@
-K-Means Clustering from Scratch for One-Hot Encoded Data
+#K-Means Clustering from Scratch for One-Hot Encoded Data
 
 This repository contains a K-Means clustering implementation from scratch for clustering patient sequences based on their one-hot encoded representations.
 
